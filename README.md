@@ -37,3 +37,5 @@ override.tf.json  # Файл override.tf.json
 terraform.rc # Файл terraformrc
 
 ####### END Terraform.gitignore
+
+new line
